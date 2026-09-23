@@ -1,7 +1,22 @@
 ---
-title: "Git"
+title: "Aaron Wang"
+image: "images/chinatsu.png"
+toc: false
+about:
+    template: trestles
+    image-width: 20em
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/aaron-wang
+          target: _blank
+        - icon: email
+          text: Email
+          href: mailto:aaronparsonwang2004@gmail.com
+        - icon: github
+          text: Github
+          href: https://github.com/AaronWanh
 ---
 
-This is a Quarto website.
+This is my bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
